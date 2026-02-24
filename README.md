@@ -18,7 +18,7 @@ Senior-level Cloud AI Architect specializing in Reddit-scale infrastructure effi
 
 ### 📊 Advanced Analytics & Benchmarking
 * **[Hosting Spend Analytics Hub](https://github.com/JeyaPrakashI/Multi-Cloud-Analytics-Hub-Variance-Drivers):** Waterfall bridge analysis decomposing a **$170k+ monthly variance** into Price, Volume, and Mix.
-* **[Multi-Cloud Benchmarking Framework](https://github.com/JeyaPrakashI/Multi-Cloud-Analytics-Hub):** Star schema data model for real-time GPU profitability and ESG carbon reporting.
+* **[Multi-Cloud Benchmarking Framework](https://github.com/JeyaPrakashI/AI-FinOps-GPU-Profitability-Engine):** Star schema data model for real-time GPU profitability and ESG carbon reporting.
 
 ---
 
