@@ -10,7 +10,7 @@ Senior-level Cloud AI Architect specializing in Reddit-scale infrastructure effi
 ### 🏦 Strategic Finance & Negotiation
 * **[Contract Negotiation Simulator](https://github.com/JeyaPrakashI/Cloud-Commitment-ROI-Simulator):** Proprietary engine identifying **$5.4M in cost avoidance** for AI/GPU infrastructure.
 * **[Unit Economics Dashboard](https://github.com/JeyaPrakashI/Cloud-FinOps-Unit-Economics-Optimizing-Reddit-Scale-Infrastructure-Efficiency):** Optimized Reddit-scale spend (100M+ DAU) with **8.4% efficiency gain**.
-* **[COR Forecast Engine](https://github.com/JeyaPrakashI/Cloud-FinOps-Unit-Economics):** Seasonal time-series modeling (Prophet) reducing budget variance to **<2%**.
+* **[COR Forecast Engine](https://github.com/JeyaPrakashI/Cloud-Hosting-Forecasting-Engine):** Seasonal time-series modeling (Prophet) reducing budget variance to **<2%**.
 
 ### 🤖 AI-Driven Governance & Autonomy
 * **[AI-FinOps Sentinel](https://github.com/JeyaPrakashI/AI-FinOps-Sentinel-Autonomous-Cloud-Governance):** Autonomous "Sentinel-1" engine using Agentic AI for real-time GPU cost remediation.
